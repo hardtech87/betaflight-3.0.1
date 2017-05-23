@@ -112,7 +112,7 @@
 //#define SONAR_ECHO_PIN          PB0
 //#define SONAR_TRIGGER_PIN       PB5
 
-#undef GPS
+#define GPS
 #define CLI_MINIMAL_VERBOSITY
 #undef MAG
 
